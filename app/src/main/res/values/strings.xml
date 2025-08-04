@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AR Drill Placement</string>
+    <string name="drill_selection_title">Select a Drill</string>
+    <string name="start_ar_button">Start AR Drill</string>
+    <string name="camera_permission_required">Camera Permission Required</string>
+    <string name="ar_not_supported">AR Not Supported</string>
+    <string name="tap_to_place">Tap on ground to place drill marker</string>
+    <string name="drill_placed">Drill marker placed successfully</string>
+</resources>
